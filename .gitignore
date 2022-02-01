@@ -85,3 +85,4 @@ cython_debug/
 *.vsix
 /images
 /resource
+yolov5s.pt
